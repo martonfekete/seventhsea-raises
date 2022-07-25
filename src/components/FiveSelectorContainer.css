@@ -1,0 +1,6 @@
+.five-selector {
+  display: inline-flex;
+}
+.five-selector span {
+  margin: 0 .1rem;
+}

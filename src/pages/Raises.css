@@ -1,0 +1,9 @@
+input[type=number] {
+    padding: 0!important;
+}
+h4 {
+    margin: 0
+}
+.MuiButton-root {
+    margin-top: 2rem !important;
+}

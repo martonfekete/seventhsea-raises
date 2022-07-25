@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "7thSea 2E raise calculator",
+  "name": "A simple app to calculate raises for the amazing 7thSea 2E role-playing game",
   "icons": [
     {
       "src": "favicon.ico",
